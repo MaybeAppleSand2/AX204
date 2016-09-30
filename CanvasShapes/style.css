@@ -1,0 +1,9 @@
+h1 {
+	font:fantasy;
+}
+body{
+	background-color:Yellow;
+}
+canvas{
+	border: 2px dotted red;
+}
